@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="question1">Question 1: What is the capital city of Turkey ?</string>
+    <string name="question2">Question 2: Which one is the most crowded city in Turkey ?</string>
+    <string name="question3">Question 3: Which one/ones are near the sea?</string>
+    <string name="question4">Question 4 : What is the country code of Turkey</string>
+</resources>
